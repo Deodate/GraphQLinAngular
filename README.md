@@ -1,5 +1,5 @@
 # GraphQL API UI / UX
-
+This project can help how to get started with GraphQL in Angular.
 ![image](https://github.com/user-attachments/assets/22024866-0acf-4f78-830f-d87bdd7ff1b5)
 
 
