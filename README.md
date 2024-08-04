@@ -1,5 +1,8 @@
 # GraphQL
 
+![image](https://github.com/user-attachments/assets/22024866-0acf-4f78-830f-d87bdd7ff1b5)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
 ## Development server
