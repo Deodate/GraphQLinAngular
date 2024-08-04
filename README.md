@@ -1,4 +1,4 @@
-# GraphQL UI / UX
+# GraphQL API UI / UX
 
 ![image](https://github.com/user-attachments/assets/22024866-0acf-4f78-830f-d87bdd7ff1b5)
 
