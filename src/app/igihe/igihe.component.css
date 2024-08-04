@@ -8,3 +8,24 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
 }
+
+.news-container ul li{
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0e0;
+}
+
+.news {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.post-title{
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.post-description {
+    font-size: 14px;
+}
