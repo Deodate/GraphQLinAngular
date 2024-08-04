@@ -1,0 +1,10 @@
+.main {
+    margin-top: 60px;
+}
+
+.news-container ul{
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}

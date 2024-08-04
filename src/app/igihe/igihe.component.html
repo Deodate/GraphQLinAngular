@@ -1,1 +1,23 @@
-<p>igihe works!</p>
+<div class="main">
+    <!-- Display error message if there is an error -->
+    <div *ngIf="error">
+        <p>Error: {{ error.message }}</p>
+    </div>
+
+    <!-- Display news items if available -->
+    <div class="news-container" *ngIf="news && news.length > 0">
+        <ul>
+            <li *ngFor="let item of news">
+                <div class="news">
+                    <span class="news-title">{{ item.title }}</span>
+                    <span class="news-description">{{ item.description }}</span>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+    <!-- Display message if no news items are available -->
+    <div *ngIf="news && news.length === 0">
+        <p>No news available.</p>
+    </div>
+</div>
